@@ -1,0 +1,73 @@
+{
+  "compass": "8:25",
+  "duty_name": "4027",
+  "duty_total": "7:44",
+  "on_bus_total": "7:24",
+  "pay_time": "7:44",
+  "running_boards": [
+    {
+      "book_off": "",
+      "book_on": "1141",
+      "location_off": "BP",
+      "location_on": "BP",
+      "running_board_id": "39/08",
+      "services": [
+        {
+          "destination": "Bilston",
+          "service": "34"
+        },
+        {
+          "destination": "Walsall",
+          "service": "34"
+        },
+        {
+          "destination": "Bilston",
+          "service": "34"
+        },
+        {
+          "destination": "Walsall",
+          "service": "34"
+        },
+        {
+          "destination": "Bilston",
+          "service": "34"
+        },
+        {
+          "destination": "Walsall",
+          "service": "34"
+        }
+      ],
+      "time_off": "1545",
+      "time_on": "1156",
+      "time_on_bus": "3:49"
+    },
+    {
+      "book_off": "2006",
+      "book_on": "",
+      "location_off": "WA",
+      "location_on": "BP",
+      "running_board_id": "39/06",
+      "services": [
+        {
+          "destination": "Bilston",
+          "service": "34"
+        },
+        {
+          "destination": "Willenhall",
+          "service": "37"
+        },
+        {
+          "destination": "Walsall",
+          "service": "37"
+        },
+        {
+          "destination": "Willenhall",
+          "service": "37"
+        }
+      ],
+      "time_off": "2001",
+      "time_on": "1626",
+      "time_on_bus": "3:35"
+    }
+  ]
+}
